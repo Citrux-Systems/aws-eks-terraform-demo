@@ -1,0 +1,11 @@
+*.terraform
+*.pem
+*.tfvars
+*.tfplan
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+*node_modules
+.terraform
+.terraform.plan
+.terraform.lock.hcl
